@@ -1,7 +1,7 @@
 [project]
 name = "lab-2-part-2"
 version = "0.1.0"
-description = "Add your description here"
+description = "Sentinel-2 monitoring of Khumbu Glacier and Imja Tsho (Everest massif), 2017-2025"
 readme = "README.md"
 authors = [
     { name = "Luka-Rondal", email = "luka.rondal@epfedu.fr" }
@@ -9,7 +9,11 @@ authors = [
 requires-python = ">=3.14"
 dependencies = [
     "folium>=0.20.0",
+    "ipykernel>=7.3.0",
+    "ipywidgets>=8.1.9",
     "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
     "pandas>=3.0.6",
     "sentinelhub>=3.12.0",
+    "shapely>=2.1.2",
 ]
