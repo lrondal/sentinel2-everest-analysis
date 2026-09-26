@@ -5,3 +5,5 @@
 # Copernicus login
 password = "password"
 username = "username@email.com"
+client_id = "id"
+client_secret = "secret"
