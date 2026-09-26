@@ -16,3 +16,5 @@ myCopernicusCredentials.py
 *.pdf
 *.docx
 Ressource/
+# Downloaded Sentinel Hub images
+data/
